@@ -36,3 +36,8 @@ Exchange Rate in: 1.547s
 [Axios](https://www.npmjs.com/package/axios): Streaming CSV parser that aims for maximum speed as well as compatibility
 
 [CSV-parser](https://www.npmjs.com/package/csv-parser): Make http requests from node.js
+
+The project has 3 parts:
+- Handle the CSV, 
+- Check is a valid row
+- Call API to handle the exchange to USD
